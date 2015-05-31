@@ -2,3 +2,4 @@ work hard to be a great data scientist.
 now learning git, use it
 and English is also very important
 add a branch
+add to repos on the first branch
