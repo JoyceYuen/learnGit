@@ -1,3 +1,7 @@
 work hard to be a great data scientist.
 now learning git, use it
 and English is also very important
+add a branch
+add second branch
+change the first branch
+add to stage on second branch
