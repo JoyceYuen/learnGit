@@ -1,2 +1,2 @@
 work hard to be a great data scientist.
-now learning git
+now learning git, use it
