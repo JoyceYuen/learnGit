@@ -3,9 +3,9 @@ now learning git, use it
 and English is also very important
 add a branch
 
-add to repos on the first branch
+！add to repos on the first branch
 
-add second branch
+！add second branch
 change the first branch
 add to stage on second branch
 
