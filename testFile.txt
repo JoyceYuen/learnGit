@@ -6,3 +6,6 @@ add second branch
 yyy
 change the first branch
 add to stage on second branch
+
+
+22:18 add sth in testMerge
