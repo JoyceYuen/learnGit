@@ -9,3 +9,6 @@ add to stage on second branch
 
 
 22:18 add sth in testMerge
+
+22:30 write in testMerge2   text on 22:35
+
